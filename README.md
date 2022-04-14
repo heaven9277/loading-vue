@@ -4,13 +4,13 @@
  * @Author: zhenghaiwen
  * @Date: 2022-04-12 21:52:37
  * @LastEditors: zhenghaiwen
- * @LastEditTime: 2022-04-13 13:47:55
+ * @LastEditTime: 2022-04-14 17:34:51
 -->
-# loading-viewer-vue
+# loading-view-vue
 ```
 简易loading加载
 ```
-## How to use for vue3.0
+## How to use for vue2.0+
 ```bash
 #import package
 npm i loading-view-vue
